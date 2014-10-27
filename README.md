@@ -38,6 +38,13 @@ Inside defaults:
 
 Outside defaults please define the name of the user where everything will be installed
 
+Dependencies
+-------------------------
+
+Install EPEL: https://github.com/flmmartins/ansible-epel
+
+If you wish to disable selinux: https://github.com/flmmartins/ansible-disable-selinux
+
 Example Playbook
 -------------------------
 
