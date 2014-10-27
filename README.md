@@ -1,5 +1,5 @@
 
-Ansible for Ruby Passenger And Nginx Installation
+Ansible for Ruby & Passenger-Nginx
 ========
 
 Role that installs, from a tarball, the following softwares using the version of your choosing:
