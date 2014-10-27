@@ -1,0 +1,14 @@
+---
+galaxy_info:
+  author: Fernanda Martins
+  description: Install Ruby, Passenger, Rubygems and Nginx
+  min_ansible_version: 1.5
+  platforms:
+  - name: CentOS
+    versions:
+    - 6
+  categories:
+  - development
+  - packaging
+  - system
+  - web
